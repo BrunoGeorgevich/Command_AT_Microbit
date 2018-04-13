@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2017 Intel Corporation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ *
+ * AUTHOR : BRUNO GEORGEVICH FERREIRA
+ */
+
 #ifndef COMMANDAT_H
 #define COMMANDAT_H
 
